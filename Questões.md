@@ -1,5 +1,6 @@
 # Exercicio_Colaboracao_Etapa1
 *Tuplas
+
 #1-Dona Margarida foi ao Hortifruti, ao chegar lá se deparou com a tabela
 dos produtos com os seguintes preços : (Tomate = R$ 1.98 kg, Cebola = R$ 1.48 kg,
 Maça = R$ 8.49 kg, Banana = R$ 1.99 kg, Alface = R$ 1.59 unidade e Couve = R$ 4.85 unidade).

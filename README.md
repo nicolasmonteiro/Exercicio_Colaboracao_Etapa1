@@ -48,6 +48,8 @@ No final mostre: quantidade de carros restantes(tamanho da lista de carros - tam
 e quanto Josemar lucrou no final em reais.
 Dica: Para utilizar o código coloque junte do nome do carro, por exemplo O código aqui é 1.:  '1-Classic'.
 
+*Dicionários
+
 #5-Angelino mora em Recife e está planejando viajar para os estados que fazem fronteira com Pernambuco, para isso decidiu fazer uma tabela com esses estados e capitais.
 Faça um dicionário para cada estado e insira dentro de uma lista. Cada dicionário deve incluir: Estado e Capital.
 Imprima na tela os Estados que fazem fronteira com Pernambuco e suas respectivas capitais utilizando lista e dicionário.
